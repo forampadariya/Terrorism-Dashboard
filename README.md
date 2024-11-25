@@ -11,6 +11,7 @@ Filter Options: Allows users to filter data by country and time range.
 
 # Tools Used
 Data Visualization: Power BI.
+
 Data Analysis: Cleaned and prepared terrorism datasets for insightful visualizations.
 
 # Dataset
