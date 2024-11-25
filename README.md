@@ -3,10 +3,15 @@ This project is an interactive Terrorism Dashboard created to analyze global ter
 
 # Features
 Top Successful Attack Types: Visual representation of the most common attack methods.
+
 Top Target Types: Breakdown of the primary targets of terrorist attacks.
+
 Top Successful Weapons: Analysis of the most frequently used weapons.
+
 Successful Attacks by Region: Bar chart summarizing attacks by regions worldwide.
+
 Successful Attacks by Country: Interactive map to explore country-specific data.
+
 Filter Options: Allows users to filter data by country and time range.
 
 # Tools Used
